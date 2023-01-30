@@ -1,0 +1,3 @@
+# Enrollment
+
+This project will help user to enroll students to a course in a university. The program will be able to add a student to a university and a course. It will also able to drop a course from a student or university, or drop a student from a course. The student class will be responsible in handling and storing student information. The course class will be responsible in storing a course information. The university class will be responsible in handling and storing university information as well as storing a information of student and course pointers. The enrollmentsystem will handle the enrollment information.
